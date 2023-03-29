@@ -9,7 +9,7 @@ Computer systems were always this impapable black box, and I became determined
 to learn how they work.
 
 Years passed and I am now a computer engineer working as an embedded
-softwaredeveloper. I found that I love working at the low level: interfacing
+software developer. I found that I love working at the low level: interfacing
 with hardware, working with operating systems, and dabbling in compilers. At my
 job I get to hack around with Linux, U-Boot, and occasionally some bare-metal
 applications, and I wouldn't have it any other way. When I am not at work, I
